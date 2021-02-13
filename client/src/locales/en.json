@@ -1,0 +1,35 @@
+{
+    "langCode": "en",
+    "language": "English",
+    "hello":"Hello!",
+    "leftNav":{
+      "BooksList":"Some Recent Audio Books",
+      "ReadBy":"read by"
+    },
+    "boltiPustake":"Mukta Shrāvya",
+    "headerTagLine" : "Out of Copyright books read by volunteers",
+    "home": "Home",
+    "intro": "Introduction",
+    "aboutUs": "About Us",
+    "volunteer" : "Volunteer",
+    "login" : "Login",
+    "logout" : "Log out",
+    "loggedinVolunteer": "Volunteer area",
+    "history": "Historical",
+    "fiction" : "Fiction",
+    "religion" : "Religion",
+    "social" : "Social",
+    "biography" : "Biographical",
+    "Search" : "Search",
+    "findABook" : "Find a book to listen to",
+    "chooseCriteria" : "Choose one of more criteria",
+    "getInTouch" : "Get in touch",
+    "likeUs" : "Like us on ",
+    "aboutHeader": "A few words about Bolti Pustake",
+    "aboutText": "Bolti Pustake is a project run by volunteers Blah Blah Blah",
+    "volunteerWithUs": {
+        "header": "Volunteer With Us!",
+        "para1": "Would you like to help us add more audio books in your own language, even in your own voice?",
+        "para2": ""
+    }
+}
