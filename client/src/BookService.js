@@ -1,7 +1,7 @@
 //import { books } from "../../server/routes/api/books";
 import axios from "axios";
 
-const url = 'http://localhost:5000/api/books/';
+const url = 'api/books/';
 
 class BookService{
     //Get books
